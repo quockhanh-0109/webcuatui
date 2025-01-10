@@ -6,25 +6,16 @@
     <title>Document</title>
   </head>
   <body>
-    <h1>vo noi doa voi sang kien cua chong</h1>
-    <hr />
-    <img src="img/19055.jpg" alt="anh songoku" height="200" />
-    <h3></h3>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus
-    repudiandae voluptatibus ad. Odit ipsam eum, porro ex molestiae vitae
-    temporibus. Totam consequatur nam ut. A neque earum facere ad. Quibusdam!
-    Quo inventore ex eos neque voluptate officia! Deleniti magnam ex unde
-    aspernatur aliquam accusamus repudiandae reprehenderit cum velit eos
-    corrupti minima sunt dolorem optio, error iste molestiae nesciunt eaque.
-    Sunt. Accusantium soluta fuga eum incidunt recusandae dolorum quaerat eaque
-    asperiores magni, voluptas, quas debitis, laudantium culpa. Ipsam sed hic ea
-    illum minus laborum fuga, nisi, accusamus quisquam alias vel quibusdam?
-    Libero commodi officia iure at. Eum provident blanditiis consectetur nostrum
-    dolore numquam cum accusamus modi? Cum laudantium, reprehenderit eum
-    repellendus explicabo beatae, possimus exercitationem impedit maiores hic id
-    repellat! Alias. Reiciendis explicabo laboriosam possimus provident sint
-    blanditiis, quam quidem. Iure rem, eveniet alias exercitationem earum, iusto
-    nesciunt eius distinctio repellat, accusantium sequi omnis hic quasi dolore
-    suscipit aliquam soluta pariatur.
+    <h1>Giới thiệu che chou</h1>
+    <img
+      height="200"
+      src="https://scontent.fsgn18-1.fna.fbcdn.net/v/t39.30808-6/471798014_1617112579179304_1337847189821671080_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeESro_S-9EFXdMpBkAEmimNCOEfpGBYLAwI4R-kYFgsDK1_u7mRaKTojznQvUyZ7ENjiTGwWZOvViuwQT_It4K9&_nc_ohc=F0CXicnb_VoQ7kNvgFAI5tw&_nc_zt=23&_nc_ht=scontent.fsgn18-1.fna&_nc_gid=ApSyn5Uxe2RRCPtu6yw76rT&oh=00_AYCYAycVCPr8-BvEKfEVcY65fHeEKuc5Zf3AIhobhfRc9A&oe=67866FB7"
+      alt=""
+    />
+    <h3>Ho ten: Le Tuan Cuong</h3>
+    <h3>Ngay sinh: 02/09/2005</h3>
+    <h3>So thich: thich nam tay trai</h3>
+    <h3>Que quan: Tien Giang</h3>
+    <h3>Biet danh: Vet Nho Tan Phuoc</h3>
   </body>
 </html>
